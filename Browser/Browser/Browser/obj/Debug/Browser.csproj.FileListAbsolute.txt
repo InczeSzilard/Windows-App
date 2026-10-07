@@ -1,0 +1,13 @@
+C:\Users\szila\Downloads\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\szila\Downloads\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\szila\Downloads\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.exe.config
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.Exercise_2.resources
+C:\Users\szila\Downloads\Browser\Browser\obj\Debug\Browser.Ex3.resources
